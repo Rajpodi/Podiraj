@@ -9,7 +9,7 @@
 
 # @markdown <br>
 
-API_ID = 0  # @param {type: "integer"}
+API_ID = 18741383  # @param {type: "integer"}
 API_HASH = ""  # @param {type: "string"}
 BOT_TOKEN = ""  # @param {type: "string"}
 USER_ID = 0  # @param {type: "integer"}
